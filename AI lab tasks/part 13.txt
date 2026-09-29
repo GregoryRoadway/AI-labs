@@ -1,0 +1,1 @@
+50/50 has a lower entropy because it has a lower number of microstates

@@ -1,0 +1,3 @@
+False positives could make the patient and doctors think that cancer is present and would falsely put the patient through needless medical procedures such as chemotherapy, which could damage cells in the body.
+
+This differs from a false negative result where the patient and doctors think there is no cancer present and the cancer would slowly build inside your body, which later may become untreatable.

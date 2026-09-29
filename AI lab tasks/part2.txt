@@ -1,0 +1,3 @@
+Parameters vs. Statistics: Parameters describe the population (e.g., population mean), while statistics describe the sample (e.g., sample mean).
+
+reference: https://www.geeksforgeeks.org/maths/population-and-sample-statistics/

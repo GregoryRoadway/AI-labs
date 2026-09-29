@@ -1,0 +1,1 @@
+The reason the mean is more affected by the mean than the median is because the median is just the middle value, where as the mean is calculated by adding up all the values and dividing by how many w=values there are. This means an extreme outlier can drastically change the mean's result compared to the median.

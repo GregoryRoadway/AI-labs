@@ -1,0 +1,5 @@
+AI relies on statistics to predict outcomes on situations it is given.
+
+Statistics also help the people building it what biases the AI may have.
+
+AI may also learn from statistics and make statistics for users.
